@@ -1,0 +1,8 @@
+_esy
+node_modules
+_build
+.exercism
+*.install
+*.byte
+*.cmi
+*.cmo
